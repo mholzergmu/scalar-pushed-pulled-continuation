@@ -46,6 +46,9 @@ Outputs
 
 
    mu1,mu2,mu4 -- mu parameter found during continuation for par=1,2 or 4
+   
    a1,a2, a4 -- a parameter found during continuation for par=1,2 or 4
+   
    b1,b2, b4 -- b parameter found during continuation for par=1,2 or 4
+   
    c1,c2, c4 -- wavespeed calculated during continuation for par=1,2 or 4
