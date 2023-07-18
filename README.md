@@ -1,9 +1,7 @@
 # scalar-pushed-pulled-continuation
 Code to continue pulled fronts, pushed fronts and pushed to pulled transition points to accompany Avery, Holzer, Scheel, Pushed-to-pulled front transitions: continuation, speed scalings, and hidden monotonicty 2023. 
 
-
-%%% Performs pulled front continuation, pushed front continuation and
-%    locates pushed-to-pulled transition value for the scalar PDE 
+Performs pulled front continuation, pushed front continuation and locates pushed-to-pulled transition value for the scalar PDE 
 %    u_t=u_{xx}+f(u,u_x,mu)
 
 %%% Computes solutions to the BVP u_{xx}+cu_x+f(u,u_x,mu)=0 using the
